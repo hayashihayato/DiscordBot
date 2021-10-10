@@ -1,6 +1,19 @@
 # DiscordBot
 ディスコードで機能するボット
 
+## 使用Package
+```
+"@discordjs/opus": "github:discordjs/opus",
+"discord.js": "^12.3.1",
+"ffmpeg-static": "^4.4.0",
+"node": "^16.9.1",
+"opusscript": "0.0.8",
+"util": "^0.12.4",
+"ytdl-core": "^4.9.1",
+"ytpl": "^2.2.3",
+"ytsr": "^3.5.3"
+```
+
 ## 機能一覧
 
 ```
